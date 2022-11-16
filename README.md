@@ -7,9 +7,9 @@
 
 - 🔭 Actualmente estoy trabajando en **una app para '2A servicios integrales'**
 
-- 🌱 Actualmente estoy aprendiendo **Ciencia de datos e Inteligencia Datos**
+- 🌱 Estoy aprendiendo **Desarrollo web fullStack** y **Ciencia de datos e Inteligencia Datos**
 
-- 📝 Actualmente estoy estudiando [Desarrollo Web Fullstack en](https://apx.school/carreras/dwf)
+- 📝 Estoy estudiando **Desarrollo Web Fullstack en** [https://apx.school/carreras/dwf]
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://portfolio-burgoa-francisco.vercel.app/](https://portfolio-burgoa-francisco.vercel.app/)
 
