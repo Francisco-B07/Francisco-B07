@@ -1,5 +1,5 @@
 <h1 align="center">Hola, Soy Francisco Burgoa</h1>
-<h3 align="center">Un apasionado desarrollador frontend</h3>
+<h3 align="center">Un apasionado FullStack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=francisco-b07&label=Profile%20views&color=0e75b6&style=flat" alt="francisco-b07" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 Estoy aprendiendo **Desarrollo web fullStack** y **Ciencia de datos e Inteligencia Datos**
 
-- 📝 Estoy estudiando **Desarrollo Web Fullstack en** [https://apx.school/carreras/dwf]
+- 📝 Estoy estudiando **Desarrollo Web Fullstack en** https://apx.school/carreras/dwf
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://portfolio-burgoa-francisco.vercel.app/](https://portfolio-burgoa-francisco.vercel.app/)
 
