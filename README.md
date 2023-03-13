@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=francisco-b07" alt="francisco-b07" /></a> </p>
 
-- 🔭 Actualmente estoy trabajando en **una app para '2A servicios integrales'**
+- 🔭 Trabaje desarrollando **una app para '2A servicios integrales'** como freelance.
 
-- 🌱 Estoy aprendiendo **Desarrollo web fullStack** y **Ciencia de datos e Inteligencia Datos**
+- 🌱 Soy **Desarrollador web fullStack** y estoy aprendiendo **Ciencia de datos e Inteligencia Datos** en el ISPC.
 
-- 📝 Estoy estudiando **Desarrollo Web Fullstack en** https://apx.school/carreras/dwf
+- 📝 Estudie **Desarrollo Web Fullstack en https://apx.school/carreras/dwf**
 
-- 👨‍💻 Todos mis proyectos están disponibles en [https://portfolio-burgoa-francisco.vercel.app/](https://portfolio-burgoa-francisco.vercel.app/)
+- 👨‍💻 Todos mis proyectos están disponibles en [Portfolio](https://portfolio-burgoa-francisco.vercel.app/)
 
 - 📫 Contactame **franciscojburgoa@gmail.com**
 
-- 📄 Conoce mis experiencias [https://www.linkedin.com/in/francisco-burgoa-0b3422227/](https://www.linkedin.com/in/francisco-burgoa-0b3422227/)
+- 📄 Conoce mis experiencias [LinkedIn](https://www.linkedin.com/in/franciscoburgoa/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
