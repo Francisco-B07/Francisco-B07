@@ -7,17 +7,17 @@
 
 - 🔭  Trabaje desarrollando **una web app para '2A servicios integrales'** como freelance.
 
-- 🔭  Realice el Folcamp, un Bootcamp de Folcademy donde durante 4 meses desarrollamos una web app para la ONG BisBlick.
+- 🔭  Realice el Folcamp, un Bootcamp de Folcademy, donde durante 4 meses desarrollamos una web app para la ONG BisBlick.
 
 - 🌱  Soy **Desarrollador web FullStack** y estoy aprendiendo **Ciencia de datos e Inteligencia Datos** en el ISPC.
 
-- 📝  Estudie **Desarrollo Web Fullstack en [apx](https://apx.school/carreras/dwf)**
+- 📝  Estudie **Desarrollo Web Fullstack en [apx](https://apx.school/carreras/dwf)**.
 
-- 👨‍💻  Todos mis proyectos están disponibles en [mi Portfolio](https://portfolio-burgoa-francisco.vercel.app/)
+- 👨‍💻  Todos mis proyectos están disponibles en [mi Portfolio](https://portfolio-burgoa-francisco.vercel.app/).
 
-- 📫  Contactame **franciscojburgoa@gmail.com**
+- 📫  Contactame **franciscojburgoa@gmail.com**.
 
-- 📄  Conoce mis experiencias en [LinkedIn](https://www.linkedin.com/in/franciscoburgoa/)
+- 📄  Conoce mis experiencias en [LinkedIn](https://www.linkedin.com/in/franciscoburgoa/).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
