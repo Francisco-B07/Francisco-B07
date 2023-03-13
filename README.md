@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=francisco-b07" alt="francisco-b07" /></a> </p>
 
-- 🔭  Trabaje desarrollando **una web app para '2A servicios integrales'** como freelance.
+- 🔭  Trabajé desarrollando **una web app para '2A servicios integrales'** como freelance.
 
 - 🔭  Realice el Folcamp, un Bootcamp de Folcademy, donde durante 4 meses desarrollamos una web app para la ONG BisBlick.
 
