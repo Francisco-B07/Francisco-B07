@@ -7,6 +7,8 @@
 
 - 🔭  Trabaje desarrollando **una web app para '2A servicios integrales'** como freelance.
 
+- 🔭  Realice el Folcamp, un Bootcamp de Folcademy donde durante 4 meses desarrollamos una web app para la ONG BisBlick.
+
 - 🌱  Soy **Desarrollador web FullStack** y estoy aprendiendo **Ciencia de datos e Inteligencia Datos** en el ISPC.
 
 - 📝  Estudie **Desarrollo Web Fullstack en [apx](https://apx.school/carreras/dwf)**
